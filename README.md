@@ -1,2 +1,2 @@
 # PassportAuthentification
-Express and passport login and registration (Nodejs , MongoDB , Express , Passport)
+Express passport login/registration (Nodejs , MongoDB , Express , Passport)
